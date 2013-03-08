@@ -1,0 +1,2 @@
+This is a simple example of a Python program that defines multiple
+commands, each with its own arg parser.
